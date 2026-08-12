@@ -28,9 +28,6 @@
 <p align="center">
     <!-- https://github.com/badges/shields -->
     <a href="https://github.com/LexianLix"><img src="https://img.shields.io/badge/GitHub-LexianLix-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/TODO-%e4%bd%a0%e7%9a%84%e9%93%be%e6%8e%a5-gray?logo=link" alt="TODO" title="TODO" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/TODO-%e4%bd%a0%e7%9a%84%e9%93%be%e6%8e%a5-gray?logo=link" alt="TODO" title="TODO" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/TODO-%e4%bd%a0%e7%9a%84%e9%93%be%e6%8e%a5-gray?logo=link" alt="TODO" title="TODO" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/LexianLix"><img src="https://komarev.com/ghpvc/?username=LexianLix&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
