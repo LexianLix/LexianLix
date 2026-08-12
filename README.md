@@ -5,7 +5,7 @@
 
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5;TODO%3a+%e5%a1%ab%e5%86%99%e4%bd%a0%e7%9a%84%e6%a0%87%e8%af%ad" alt="Hello World" title="Hello World"/>
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5;%e5%8e%bb%e4%bc%9a%e4%bc%97%e7%94%9f%ef%bc%8c%e5%8e%bb%e5%af%bb%e8%87%aa%e5%b7%b1" alt="Hello World" title="Hello World"/>
 </p>
 
 <p align="center">
@@ -37,5 +37,5 @@
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=TODO%3a+%e5%a1%ab%e5%86%99%e4%bd%a0%e7%9a%84%e7%ad%be%e5%90%8d&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=%e5%8e%bb%e4%bc%9a%e4%bc%97%e7%94%9f%ef%bc%8c%e5%8e%bb%e5%af%bb%e8%87%aa%e5%b7%b1&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
