@@ -36,3 +36,7 @@
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=%e5%8e%bb%e4%bc%9a%e4%bc%97%e7%94%9f%ef%bc%8c%e5%8e%bb%e5%af%bb%e8%87%aa%e5%b7%b1&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
+---
+## 📚 Featured Project
+
+**[漫匣 Manxia](https://github.com/LexianLix/manxia)** — 一个注重实体书质感的 Flutter 开源漫画阅读器（Android）：立体书架、沿书脊翻开的封面动画、悬浮毛玻璃导航、JSON 插件系统，支持本地导入与 WebDAV 同步。MIT 开源，欢迎 Star 和 PR。
